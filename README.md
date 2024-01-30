@@ -1,2 +1,2 @@
 # Git-test1
-Test repository de GitHub
+Nous travaillons sur les branches de Git!
